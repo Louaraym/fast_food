@@ -2,10 +2,15 @@
 
 class Database
 {
+//    private static $dbHost = 'localhost';
+//    private static $dbName = 'lora0935_fast_food';
+//    private static $dbUsername = 'lora0935_Raymond';
+//    private static $dbUserpassword = 'Takoleta2016';
+
     private static $dbHost = 'localhost';
-    private static $dbName = 'lora0935_fast_food';
-    private static $dbUsername = 'lora0935_Raymond';
-    private static $dbUserpassword = 'Takoleta2016';
+    private static $dbName = 'fast_food';
+    private static $dbUsername = 'root';
+    private static $dbUserpassword = '';
     
     private static $connection = null;
     
@@ -31,4 +36,4 @@ class Database
     }
 
 }
-?>
+

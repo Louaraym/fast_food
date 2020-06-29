@@ -141,7 +141,7 @@
     </head>
     
     <body>
-        <h1 class="text-logo"><span class="glyphicon glyphicon-cutlery"></span> Burger Code <span class="glyphicon glyphicon-cutlery"></span></h1>
+        <h1 class="text-logo"><span class="glyphicon glyphicon-cutlery"></span> Fast food <span class="glyphicon glyphicon-cutlery"></span></h1>
          <div class="container admin">
             <div class="row">
                 <div class="col-sm-6">
